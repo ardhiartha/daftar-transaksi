@@ -1,4 +1,4 @@
-# Tugas 2: Loop Daftar Transaksi Peminjaman
+# Loop Daftar Transaksi Peminjaman
 
 Proyek ini adalah implementasi PHP untuk men-generate dan menampilkan simulasi riwayat transaksi peminjaman perpustakaan. Data disajikan dalam bentuk tabel yang interaktif serta dilengkapi dengan papan statistik menggunakan **Bootstrap 5**.
 
